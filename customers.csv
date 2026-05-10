@@ -1,0 +1,544 @@
+customer_id,signup_date,country,customer_tier,email
+C00247,2018-09-10,Ghana,Silver,courtneyberger@example.net
+C00125,2023-12-21,Ethiopia,Gold,abrown@example.com
+C00413,2020-12-13,Rwanda,platinum,elizabeth18@example.net
+C00219,2018-11-09,Rwanda,BRONZE,ugibson@example.org
+C00016,09/05/2021,Senegal,Gold,lynchgeorge@example.net
+C00093,06/03/2023,Kenya,BRONZE,michael86@example.net
+C00223,07/09/2019,South Africa,platinum,tylerjohnson@example.net
+C00458,2020-11-16,South Africa,Bronze,sarah52@example.com
+C00059,26/02/2019,Rwanda,Silver,sara74@example.com
+C00356,2019-02-25,Senegal,Silver,carlamoore@example.org
+C00417,2019-06-14,Senegal,gold,tanner82@example.net
+C00222,2019-04-10,Uganda,bronze,ymcneil@example.net
+C00183,04/02/2019,South Africa,SILVER,enorris@example.com
+C00484,2021-01-05,Ethiopia,bronze,xgarcia@example.org
+C00433,2018-11-02,Rwanda,gold,
+C00222,2019-04-10,Uganda,bronze,ymcneil@example.net
+C00126,2019-06-18,Egypt,gold,gateskathy@example.com
+C00054,15/09/2022,South Africa,platinum,ramosmichelle@example.net
+C00401,2020-09-02,Tanzania,PLATINUM,lambertrichard@example.net
+C00009,2020-10-10,Nigeria,silver,wdavis@example.net
+C00192,2020-04-10,Ethiopia,platinum,mnavarro@example.com
+C00350,2020-12-18,Tanzania,BRONZE,elizabethcalderon@example.net
+C00228,2023-05-09,Uganda,gold,ofinley@example.net
+C00264,08/07/2018,Kenya,silver,umatthews@example.org
+C00257,29/06/2023,Kenya,Gold,brenda51@example.net
+C00254,2020-07-19,Ghana,platinum,michelleramsey@example.com
+C00295,28/05/2021,Uganda,platinum,elizabeth65@example.net
+C00391,29/10/2023,Ethiopia,bronze,mullinsjames@example.com
+C00454,2018-02-18,Uganda,platinum,kari39@example.net
+C00333,2023-06-02,Egypt,platinum,harrisoncrystal@example.com
+C00235,05/08/2022,Nigeria,platinum,georgemiller@example.com
+C00133,25/05/2021,Kenya,gold,millerroy@example.com
+C00392,01/06/2023,South Africa,Gold,glennmartin@example.org
+C00196,2020-05-14,Ghana,bronze,lmoon@example.net
+C00441,2023-09-05,Rwanda,platinum,sonia96@example.org
+C00381,2021-02-05,Uganda,silver,myerstheodore@example.net
+C00012,03/02/2022,Uganda,platinum,barbara10@example.net
+C00078,08/10/2022,Kenya,Bronze,ccalderon@example.org
+C00194,14/10/2022,Egypt,bronze,keyemily@example.com
+C00405,2021-03-29,Egypt,platinum,erikarush@example.com
+C00436,2021-04-20,Senegal,gold,vmarshall@example.net
+C00208,2019-10-11,Kenya,platinum,jennifercollins@example.org
+C00176,2022-11-16,South Africa,bronze,hernandezlisa@example.com
+C00473,2023-06-22,Ghana,PLATINUM,susanramirez@example.com
+C00376,2021-01-06,Rwanda,platinum,fbrown@example.net
+C00068,2022-09-03,Senegal,BRONZE,randy47@example.com
+C00443,02/04/2021,Nigeria,platinum,james27@example.net
+C00346,2020-08-19,Ethiopia,platinum,cody64@example.com
+C00357,2019-10-18,Tanzania,Silver,jenniferwilliams@example.com
+C00477,2018-09-24,Uganda,Bronze,zhuang@example.com
+C00446,2020-09-04,Ghana,BRONZE,jasongomez@example.org
+C00114,08/01/2023,Rwanda,BRONZE,pwilliams@example.org
+C00104,2023-09-03,South Africa,gold,russellcarpenter@example.net
+C00227,30/11/2023,Rwanda,Gold,cindy61@example.com
+C00351,2022-04-11,South Africa,platinum,lucasrodney@example.com
+C00419,2021-06-14,Tanzania,platinum,xfox@example.com
+C00202,2020-11-20,Rwanda,SILVER,cordovarichard@example.net
+C00240,2023-02-14,Egypt,gold,danielle64@example.com
+C00204,2023-05-29,Ethiopia,bronze,lopezmichael@example.com
+C00453,2022-06-05,Nigeria,silver,theresalong@example.com
+C00082,2018-07-12,South Africa,gold,amydavenport@example.net
+C00471,10/06/2018,Senegal,Silver,sue78@example.com
+C00408,2020-10-22,Egypt,Gold,fitzgeraldvictor@example.com
+C00051,05/10/2023,Senegal,SILVER,brownjessica@example.org
+C00136,2023-03-14,Tanzania,silver,karen64@example.org
+C00088,2021-10-27,Ethiopia,bronze,kimberly63@example.com
+C00291,2023-10-27,Senegal,platinum,edwardslarry@example.com
+C00273,2022-09-01,Nigeria,BRONZE,lisahall@example.org
+C00362,2018-07-15,South Africa,SILVER,mburch@example.net
+C00375,21/09/2021,South Africa,PLATINUM,david36@example.net
+C00246,2020-01-07,Tanzania,platinum,christinebyrd@example.net
+C00164,02/09/2018,Egypt,bronze,kevinperkins@example.com
+C00016,09/05/2021,Senegal,Gold,lynchgeorge@example.net
+C00427,2018-11-05,Uganda,platinum,james84@example.org
+C00367,2019-02-25,Uganda,gold,bwilkerson@example.com
+C00040,2018-12-27,Nigeria,platinum,sarahcampos@example.net
+C00401,2020-09-02,Tanzania,PLATINUM,lambertrichard@example.net
+C00105,2018-12-12,Nigeria,Silver,steven73@example.net
+C00493,16/08/2022,Senegal,silver,hebertmatthew@example.com
+C00100,2019-08-16,Ethiopia,bronze,elizabeth56@example.net
+C00165,2020-12-10,Ghana,Gold,ronald85@example.com
+C00485,2023-10-15,South Africa,silver,oconnelltiffany@example.org
+C00109,11/11/2020,Egypt,PLATINUM,dylanwilliams@example.com
+C00128,2020-01-12,Tanzania,platinum,acastaneda@example.net
+C00386,22/04/2018,South Africa,gold,mariacohen@example.net
+C00406,2020-12-13,Nigeria,bronze,khines@example.org
+C00108,2020-06-14,Senegal,Bronze,clarence34@example.org
+C00220,01/12/2018,Senegal,PLATINUM,ashleyhall@example.com
+C00339,2019-12-20,Ethiopia,bronze,marcalvarez@example.org
+C00071,2022-06-02,Ghana,bronze,sarahibarra@example.org
+C00027,2020-12-15,Uganda,bronze,djames@example.net
+C00296,28/03/2020,Egypt,platinum,uparrish@example.org
+C00281,2020-08-27,Kenya,bronze,acostaregina@example.net
+C00460,2020-07-16,Senegal,silver,terickson@example.com
+C00175,2023-10-22,Tanzania,platinum,shortrichard@example.org
+C00180,2018-10-03,Uganda,silver,lynchjody@example.org
+C00063,02/10/2022,Rwanda,BRONZE,brianromero@example.org
+C00226,2021-08-06,Ethiopia,SILVER,charlesharrington@example.com
+C00476,2019-11-20,Egypt,platinum,ann44@example.org
+C00075,07/01/2021,Rwanda,gold,prestonjulia@example.org
+C00270,2020-07-05,Nigeria,PLATINUM,ndavis@example.net
+C00486,21/10/2023,Ethiopia,SILVER,edelgado@example.com
+C00139,2023-10-11,Egypt,PLATINUM,jamessmith@example.org
+C00484,2021-01-05,Ethiopia,bronze,xgarcia@example.org
+C00002,2022-03-08,Uganda,platinum,jillrhodes@example.net
+C00080,2020-10-17,Ethiopia,silver,barnold@example.net
+C00371,2021-09-07,Rwanda,silver,ihorton@example.net
+C00143,2018-01-18,Rwanda,silver,stricklandfrank@example.com
+C00225,2020-06-25,Uganda,gold,jsmith@example.com
+C00181,04/08/2019,Kenya,gold,josephmiller@example.org
+C00313,29/09/2022,Nigeria,bronze,randallgreene@example.org
+C00030,2021-07-10,Egypt,PLATINUM,amoore@example.net
+C00499,2023-01-05,Kenya,gold,frobertson@example.com
+C00348,2023-12-28,Ethiopia,platinum,kyle62@example.net
+C00090,2020-08-26,Ethiopia,bronze,dwalker@example.com
+C00036,2019-09-08,Ghana,bronze,nataliearroyo@example.org
+C00396,10/04/2022,Kenya,SILVER,amymorris@example.org
+C00340,2022-03-31,Rwanda,SILVER,hayeslisa@example.com
+C00074,12/03/2021,Kenya,bronze,sarah12@example.com
+C00224,2018-10-10,Nigeria,Silver,molly71@example.net
+C00293,2021-09-12,Kenya,Bronze,daviscolin@example.net
+C00267,02/11/2020,Tanzania,bronze,jeff73@example.com
+C00450,29/03/2020,Egypt,Gold,hudsonjames@example.net
+C00010,2022-01-06,Kenya,silver,lindsay78@example.org
+C00035,24/10/2019,Ethiopia,bronze,natasha43@example.org
+C00435,2022-04-16,Senegal,bronze,barkereric@example.com
+C00121,2023-07-09,Senegal,platinum,reevesjimmy@example.com
+C00332,18/05/2023,Uganda,gold,michelle52@example.com
+C00017,14/12/2023,Rwanda,BRONZE,frankgray@example.net
+C00243,03/10/2021,Egypt,gold,andrew64@example.org
+C00323,2022-10-11,South Africa,gold,christopher13@example.com
+C00058,22/06/2022,Egypt,silver,martinaaron@example.com
+C00364,2021-11-07,Tanzania,bronze,angela18@example.org
+C00250,22/04/2023,Ethiopia,bronze,ithompson@example.net
+C00169,2022-06-18,Ghana,bronze,tina34@example.org
+C00397,08/09/2022,South Africa,platinum,donna47@example.net
+C00363,2021-05-20,Egypt,gold,moniquewilliams@example.com
+C00097,2023-01-28,Tanzania,bronze,jonathanfletcher@example.org
+C00305,11/06/2021,Nigeria,silver,davisalyssa@example.com
+C00060,10/07/2023,Egypt,SILVER,
+C00494,29/07/2023,Tanzania,bronze,ismall@example.net
+C00052,20/10/2021,Kenya,Silver,jamesherrera@example.org
+C00207,2018-08-22,Rwanda,gold,omartinez@example.net
+C00176,2022-11-16,South Africa,bronze,hernandezlisa@example.com
+C00041,2023-01-26,Rwanda,bronze,jenniferross@example.net
+C00070,2018-11-03,Ghana,PLATINUM,jonesjason@example.com
+C00263,2021-10-01,South Africa,platinum,paulwatson@example.net
+C00110,2021-05-24,Tanzania,silver,gibsonolivia@example.net
+C00272,21/01/2022,Ethiopia,BRONZE,caseyhubbard@example.org
+C00214,2021-02-07,Rwanda,bronze,michellehill@example.com
+C00198,06/04/2020,Ghana,gold,vbailey@example.com
+C00439,2023-07-26,Senegal,Silver,floressteven@example.com
+C00149,2020-07-19,Rwanda,platinum,amanda51@example.net
+C00483,2022-06-10,Ethiopia,PLATINUM,briangutierrez@example.net
+C00397,08/09/2022,South Africa,platinum,donna47@example.net
+C00492,2018-12-09,Ghana,BRONZE,nancy04@example.net
+C00199,21/02/2018,Senegal,bronze,hodgemark@example.net
+C00086,2023-08-13,Tanzania,Silver,sarayoung@example.org
+C00069,2022-09-14,Ghana,Bronze,smithchristine@example.net
+C00127,2021-09-06,Kenya,BRONZE,wsmith@example.com
+C00233,31/10/2019,Kenya,SILVER,nguyenbrian@example.com
+C00310,2018-04-09,South Africa,Bronze,nperry@example.net
+C00497,2020-09-03,Kenya,silver,alexisrogers@example.com
+C00146,16/05/2023,Ethiopia,silver,vargasmaria@example.org
+C00172,31/08/2018,South Africa,silver,danamullins@example.org
+C00300,2023-11-21,Nigeria,bronze,lindsaybruce@example.net
+C00298,2023-02-17,Ethiopia,silver,ericolson@example.org
+C00168,25/07/2019,Rwanda,gold,jamesrodgers@example.com
+C00145,30/07/2019,Tanzania,gold,tsanders@example.org
+C00159,2021-07-13,Tanzania,silver,joshua94@example.net
+C00203,2018-10-24,South Africa,platinum,sandovalamy@example.com
+C00496,25/03/2022,Nigeria,silver,francisco74@example.net
+C00123,2018-04-01,Egypt,PLATINUM,patrickhernandez@example.org
+C00145,30/07/2019,Tanzania,gold,tsanders@example.org
+C00237,2022-06-21,South Africa,platinum,dlittle@example.com
+C00356,2019-02-25,Senegal,Silver,carlamoore@example.org
+C00258,28/05/2018,Rwanda,platinum,thomasharvey@example.net
+C00328,14/08/2023,Ethiopia,silver,jonathanthompson@example.org
+C00001,2018-07-15,Uganda,bronze,johnsonjoshua@example.org
+C00452,07/03/2021,Uganda,PLATINUM,marcia99@example.org
+C00365,2018-06-06,South Africa,platinum,christopher24@example.com
+C00383,10/08/2023,Rwanda,Silver,kellycarlos@example.org
+C00283,2021-03-08,Egypt,BRONZE,gsimmons@example.com
+C00307,2023-12-10,Rwanda,SILVER,jennifer99@example.org
+C00171,16/07/2018,Kenya,SILVER,brandon08@example.com
+C00418,15/10/2022,Kenya,silver,jonesraymond@example.net
+C00239,2023-10-09,Tanzania,platinum,charleslandry@example.net
+C00487,27/10/2019,Ethiopia,platinum,katelynmitchell@example.com
+C00325,2021-09-21,Senegal,bronze,jeffrey21@example.net
+C00129,2020-08-01,Senegal,silver,tracynelson@example.com
+C00064,2019-06-03,South Africa,Bronze,larsonemma@example.org
+C00150,2020-06-12,Rwanda,gold,alexander67@example.org
+C00015,2018-06-23,Uganda,Bronze,mitchellclark@example.com
+C00463,2019-03-14,Kenya,platinum,tammy99@example.org
+C00232,21/08/2020,Nigeria,gold,wallaceheather@example.org
+C00312,2021-05-27,Nigeria,Silver,trose@example.org
+C00278,03/08/2019,Kenya,platinum,vfox@example.org
+C00402,2022-02-27,Uganda,bronze,stephaniethomas@example.net
+C00385,2022-07-02,Kenya,platinum,bradleypayne@example.net
+C00347,2020-03-10,Egypt,gold,mathewaguilar@example.org
+C00073,2023-10-05,Rwanda,gold,cheryl80@example.net
+C00338,2019-08-20,South Africa,SILVER,colelisa@example.net
+C00254,2020-07-19,Ghana,platinum,michelleramsey@example.com
+C00085,2022-06-04,Ghana,Silver,gomezanita@example.com
+C00290,2020-05-02,Ethiopia,silver,maria66@example.net
+C00022,2020-04-14,Senegal,Bronze,josephwright@example.net
+C00326,29/03/2021,Nigeria,gold,schmidtjames@example.com
+C00409,2021-07-09,Kenya,gold,greenjorge@example.com
+C00046,30/10/2023,Nigeria,Gold,palmerjoshua@example.com
+C00353,2022-12-06,Tanzania,Silver,stacey73@example.org
+C00231,19/02/2019,Tanzania,bronze,juliehamilton@example.org
+C00259,2020-01-11,Tanzania,Bronze,rose31@example.net
+C00190,07/10/2023,Senegal,platinum,gbender@example.net
+C00448,14/04/2018,Tanzania,bronze,booneryan@example.com
+C00302,28/10/2019,Ethiopia,bronze,anthony44@example.com
+C00341,28/06/2019,Ghana,BRONZE,wagnergerald@example.org
+C00178,29/01/2020,Rwanda,gold,kimberlyjames@example.com
+C00253,16/09/2018,Senegal,SILVER,linda71@example.org
+C00004,2021-11-11,Kenya,silver,jesseguzman@example.net
+C00132,2019-02-24,Egypt,PLATINUM,meadowsbrittany@example.net
+C00388,23/06/2019,Egypt,gold,baldwinsherry@example.org
+C00079,2019-01-03,Nigeria,bronze,kellie42@example.net
+C00041,2023-01-26,Rwanda,bronze,jenniferross@example.net
+C00011,2020-08-11,Rwanda,Gold,smiller@example.net
+C00122,2023-12-09,Ghana,Bronze,patricia12@example.org
+C00380,03/11/2020,Tanzania,BRONZE,millsmichael@example.net
+C00456,01/09/2020,Kenya,Silver,
+C00137,2020-07-01,Senegal,BRONZE,ismith@example.org
+C00195,2023-12-04,Ghana,gold,hinesgregory@example.net
+C00148,25/08/2019,Tanzania,PLATINUM,hoganashlee@example.org
+C00057,24/08/2019,Egypt,Silver,ntucker@example.com
+C00464,2022-01-29,Ethiopia,PLATINUM,silvageorge@example.net
+C00431,2018-04-11,Nigeria,gold,williamsdarlene@example.net
+C00457,2018-06-20,Egypt,Bronze,ghernandez@example.org
+C00187,2022-04-21,Senegal,Silver,rebekahserrano@example.org
+C00425,2020-09-16,Rwanda,silver,fernandodonovan@example.org
+C00334,2021-10-14,Senegal,platinum,bellcharles@example.com
+C00286,2020-06-13,Rwanda,platinum,oscar98@example.com
+C00407,2022-01-04,Egypt,silver,raymond43@example.org
+C00337,2020-03-29,Tanzania,gold,jford@example.net
+C00379,2018-12-10,Senegal,gold,ashleylopez@example.net
+C00106,04/11/2020,Kenya,PLATINUM,yleon@example.net
+C00345,18/01/2019,Ghana,Bronze,mccormickdeborah@example.org
+C00142,27/03/2020,Uganda,gold,catherinestuart@example.net
+C00161,2022-09-04,Ethiopia,Silver,wfreeman@example.org
+C00087,28/01/2023,Senegal,platinum,nicolejohnson@example.net
+C00287,2022-08-20,Ghana,PLATINUM,bwagner@example.org
+C00205,2023-08-24,Ghana,BRONZE,nwolf@example.com
+C00029,17/02/2019,Ghana,SILVER,kayla51@example.com
+C00150,2020-06-12,Rwanda,gold,alexander67@example.org
+C00320,27/03/2019,Tanzania,Silver,tberry@example.net
+C00342,2022-03-25,Ethiopia,gold,hritter@example.net
+C00423,2018-01-23,Kenya,Bronze,katrinaanderson@example.net
+C00130,2020-01-16,Kenya,PLATINUM,priceelizabeth@example.com
+C00119,2018-11-12,Uganda,silver,maryramirez@example.net
+C00280,2018-09-25,Tanzania,gold,hayesjeffrey@example.net
+C00023,2020-01-13,Senegal,silver,julie69@example.com
+C00157,2019-01-24,Nigeria,Bronze,frogers@example.com
+C00331,2021-08-31,Kenya,bronze,kmaldonado@example.net
+C00412,21/06/2020,Senegal,gold,rachelwallace@example.org
+C00212,2023-03-31,Ghana,Gold,jsanchez@example.org
+C00251,2021-01-14,Ethiopia,platinum,alyssa42@example.com
+C00462,2023-02-17,South Africa,bronze,laura09@example.com
+C00155,2021-05-12,Ghana,Silver,melissa14@example.com
+C00289,11/03/2021,Kenya,platinum,russellbeasley@example.com
+C00382,2023-04-19,South Africa,gold,qzavala@example.net
+C00030,2021-07-10,Egypt,PLATINUM,amoore@example.net
+C00134,2021-10-19,Senegal,platinum,brentgray@example.org
+C00270,2020-07-05,Nigeria,PLATINUM,ndavis@example.net
+C00045,09/04/2018,Nigeria,silver,perezrebecca@example.com
+C00416,2023-08-06,South Africa,silver,kristyjohnson@example.net
+C00191,2020-01-21,Egypt,gold,mkim@example.org
+C00101,2018-01-10,Kenya,silver,angela36@example.net
+C00147,2023-05-31,South Africa,SILVER,terrykevin@example.net
+C00244,2019-09-26,South Africa,Gold,lozanojulie@example.com
+C00020,2018-02-19,Uganda,SILVER,carl95@example.org
+C00065,21/07/2023,Ethiopia,bronze,kwilson@example.org
+C00442,2019-06-14,Kenya,gold,lisapeck@example.net
+C00077,2019-01-06,Rwanda,platinum,william40@example.org
+C00269,2023-08-01,Tanzania,Gold,bruce43@example.org
+C00317,2020-09-27,Egypt,SILVER,vincentwhitaker@example.com
+C00019,2020-06-15,Egypt,PLATINUM,lydiatrujillo@example.com
+C00449,12/08/2019,South Africa,silver,kathryn50@example.com
+C00438,2018-06-14,Uganda,silver,theresa25@example.net
+C00144,2018-04-18,Egypt,bronze,lanesarah@example.net
+C00131,09/10/2021,Tanzania,PLATINUM,
+C00120,2018-01-24,Uganda,SILVER,rsims@example.com
+C00389,2020-03-24,Uganda,SILVER,james30@example.com
+C00491,2018-09-22,Ethiopia,bronze,lfrench@example.net
+C00062,2021-07-18,Senegal,silver,brian97@example.net
+C00217,2020-04-12,Nigeria,Silver,cgrimes@example.net
+C00469,2020-06-29,Uganda,silver,thorntonapril@example.net
+C00303,2021-06-23,Nigeria,platinum,adam29@example.net
+C00238,2023-11-08,Ethiopia,bronze,nolansteven@example.com
+C00474,20/12/2019,South Africa,platinum,shellyhendrix@example.com
+C00099,2020-09-09,Nigeria,Bronze,cindy14@example.net
+C00466,11/02/2023,Egypt,silver,armstrongjackie@example.org
+C00480,12/08/2021,Senegal,bronze,ilewis@example.com
+C00050,2020-05-20,Ghana,platinum,ujenkins@example.org
+C00500,25/04/2020,Ghana,silver,lopezdonald@example.com
+C00410,2022-05-26,Nigeria,Silver,wendymitchell@example.com
+C00490,2021-12-22,South Africa,bronze,robertmonroe@example.org
+C00301,2023-04-14,Uganda,platinum,lynchdiane@example.net
+C00044,26/09/2018,Ghana,silver,briannasmith@example.net
+C00470,2018-12-23,Egypt,gold,
+C00118,2020-03-10,Egypt,silver,juliawells@example.com
+C00255,2023-06-08,Rwanda,Gold,christopher60@example.com
+C00361,2019-04-03,South Africa,platinum,smurray@example.com
+C00343,2019-03-28,Egypt,PLATINUM,michaelhardin@example.com
+C00350,2020-12-18,Tanzania,BRONZE,elizabethcalderon@example.net
+C00200,09/07/2022,Senegal,SILVER,zroberts@example.net
+C00084,08/03/2020,Kenya,Silver,nolanjason@example.org
+C00177,24/10/2021,Ghana,platinum,
+C00064,2019-06-03,South Africa,Bronze,larsonemma@example.org
+C00414,21/09/2019,Uganda,Silver,patricia22@example.com
+C00160,2022-09-21,Egypt,gold,blackjames@example.org
+C00403,11/08/2020,Kenya,BRONZE,ejohnson@example.org
+C00400,2023-06-16,Ghana,silver,yhill@example.org
+C00252,2021-11-30,Nigeria,Bronze,scoffey@example.net
+C00234,01/09/2022,Nigeria,bronze,ryan38@example.com
+C00182,2021-07-04,Egypt,gold,andreamoore@example.com
+C00005,2023-02-23,Rwanda,gold,jennifermiles@example.com
+C00489,2018-01-27,Kenya,Bronze,amandasharp@example.org
+C00210,2018-08-08,Tanzania,bronze,hollanderic@example.net
+C00116,19/11/2019,Uganda,platinum,stephanie79@example.net
+C00098,2019-03-18,Ethiopia,gold,michaeljones@example.net
+C00170,06/10/2020,Ghana,SILVER,harry08@example.org
+C00028,03/07/2021,Uganda,Bronze,tasha01@example.net
+C00451,2019-12-10,Ghana,BRONZE,charles87@example.net
+C00358,28/08/2019,Senegal,bronze,tarabishop@example.net
+C00138,26/05/2022,South Africa,Bronze,jeffrey10@example.org
+C00215,2020-02-27,Nigeria,BRONZE,sarah84@example.org
+C00499,2023-01-05,Kenya,gold,frobertson@example.com
+C00456,01/09/2020,Kenya,Silver,
+C00047,09/02/2018,Tanzania,Silver,ambercummings@example.net
+C00236,2023-06-17,Uganda,platinum,tyleraguilar@example.org
+C00353,2022-12-06,Tanzania,Silver,stacey73@example.org
+C00261,2020-07-16,Ghana,PLATINUM,cwilson@example.org
+C00229,2020-03-01,Senegal,silver,cbrennan@example.net
+C00081,01/11/2018,Senegal,platinum,rodriguezsierra@example.net
+C00447,12/09/2019,Nigeria,bronze,troy74@example.net
+C00009,2020-10-10,Nigeria,silver,wdavis@example.net
+C00445,2018-02-25,Rwanda,bronze,davisphillip@example.com
+C00467,21/05/2021,Egypt,gold,alexanderrobert@example.com
+C00306,2023-09-06,South Africa,bronze,kchavez@example.com
+C00025,2018-06-23,Kenya,platinum,camposmichelle@example.org
+C00297,2019-04-16,Ethiopia,platinum,caroline51@example.net
+C00188,2018-01-28,Senegal,Bronze,martinkyle@example.net
+C00468,2022-06-25,South Africa,gold,roberthampton@example.com
+C00386,22/04/2018,South Africa,gold,mariacohen@example.net
+C00221,2021-12-11,Tanzania,platinum,floresthomas@example.com
+C00276,30/03/2019,Tanzania,BRONZE,howardkristina@example.net
+C00369,2023-07-30,South Africa,Gold,brooksanthony@example.org
+C00315,03/03/2020,Senegal,silver,keith10@example.com
+C00324,08/03/2023,Egypt,Gold,zwarren@example.com
+C00472,26/08/2018,Ghana,Gold,erica49@example.com
+C00390,11/09/2020,Rwanda,platinum,zachary87@example.com
+C00415,2018-08-28,Ethiopia,silver,davidharris@example.org
+C00420,01/01/2020,Ethiopia,BRONZE,martinezlogan@example.org
+C00435,2022-04-16,Senegal,bronze,barkereric@example.com
+C00154,2023-10-02,Ghana,BRONZE,lpetersen@example.com
+C00096,07/06/2019,Senegal,platinum,samuel81@example.com
+C00275,22/10/2019,Tanzania,bronze,lauren10@example.org
+C00304,2021-09-16,Senegal,Gold,vjones@example.net
+C00352,2023-12-19,Nigeria,bronze,coxhenry@example.org
+C00309,22/03/2019,Uganda,silver,nelsonebony@example.com
+C00112,2020-02-29,Nigeria,platinum,dylanwatts@example.org
+C00411,29/05/2020,Tanzania,silver,davidfarrell@example.com
+C00282,2023-09-09,Rwanda,Silver,stephen00@example.com
+C00140,2023-11-12,South Africa,silver,davidcaldwell@example.net
+C00248,2018-12-04,South Africa,platinum,parkerscott@example.net
+C00163,01/08/2019,Ethiopia,BRONZE,davisjeffrey@example.net
+C00266,2020-05-10,Egypt,bronze,rcrosby@example.org
+C00300,2023-11-21,Nigeria,bronze,lindsaybruce@example.net
+C00434,2023-07-29,Ethiopia,bronze,timothy64@example.com
+C00274,08/11/2020,Egypt,silver,ramireztracey@example.org
+C00032,2022-09-11,Egypt,Silver,meagan89@example.org
+C00277,23/01/2020,Ghana,PLATINUM,alfred40@example.org
+C00262,2022-07-06,Ghana,PLATINUM,wendy11@example.org
+C00322,2018-05-19,South Africa,gold,george97@example.net
+C00043,2020-04-12,South Africa,Bronze,jeffreymorgan@example.net
+C00141,2019-08-06,Senegal,Bronze,stevenscott@example.com
+C00031,2019-10-08,Kenya,bronze,teresa28@example.org
+C00124,01/02/2019,Nigeria,Gold,perrymark@example.com
+C00428,2020-12-17,Uganda,Gold,christina18@example.net
+C00430,2020-08-19,Ethiopia,platinum,megan90@example.org
+C00496,25/03/2022,Nigeria,silver,francisco74@example.net
+C00359,2022-08-26,Uganda,platinum,pyoung@example.com
+C00398,2023-01-19,Rwanda,bronze,cjackson@example.com
+C00107,2022-09-17,Tanzania,SILVER,donnacampbell@example.net
+C00047,09/02/2018,Tanzania,Silver,ambercummings@example.net
+C00335,2021-08-04,Egypt,Bronze,xjohnson@example.com
+C00260,2018-11-18,Egypt,BRONZE,tblankenship@example.net
+C00249,2023-08-18,Nigeria,bronze,jessica14@example.com
+C00374,2020-08-24,Kenya,platinum,srodriguez@example.org
+C00355,2022-08-04,Egypt,gold,stanleynancy@example.net
+C00102,15/01/2019,Ethiopia,silver,lbyrd@example.net
+C00279,08/07/2022,Nigeria,silver,xwest@example.net
+C00209,14/08/2021,Senegal,gold,hdavis@example.com
+C00284,20/05/2020,South Africa,SILVER,fjones@example.com
+C00349,23/07/2022,Kenya,bronze,collinsnicholas@example.com
+C00113,2022-05-26,Ethiopia,silver,zrobinson@example.net
+C00061,02/04/2022,Kenya,bronze,rileyamy@example.net
+C00444,2020-01-15,Nigeria,silver,tjimenez@example.com
+C00376,2021-01-06,Rwanda,platinum,fbrown@example.net
+C00344,2020-03-01,Uganda,Gold,rschroeder@example.net
+C00282,2023-09-09,Rwanda,Silver,stephen00@example.com
+C00115,20/06/2018,South Africa,platinum,danderson@example.net
+C00211,2019-02-10,South Africa,gold,william46@example.com
+C00265,2023-02-13,Nigeria,Silver,fpena@example.net
+C00117,2022-04-03,Nigeria,silver,jrivas@example.com
+C00242,2023-01-21,South Africa,platinum,patrickhoward@example.com
+C00193,2020-08-31,Nigeria,platinum,davissuzanne@example.net
+C00066,24/04/2018,Rwanda,platinum,harveyrobert@example.net
+C00216,2023-09-19,Nigeria,Gold,jessica99@example.net
+C00091,07/04/2018,Rwanda,bronze,lori33@example.org
+C00459,2023-11-28,South Africa,silver,brittney88@example.net
+C00362,2018-07-15,South Africa,SILVER,mburch@example.net
+C00010,2022-01-06,Kenya,silver,lindsay78@example.org
+C00479,2018-10-20,Kenya,platinum,reedscott@example.com
+C00432,22/06/2019,Nigeria,bronze,debra96@example.net
+C00455,2019-08-14,Senegal,PLATINUM,cporter@example.org
+C00292,2018-04-26,Senegal,gold,
+C00288,2020-10-08,Senegal,PLATINUM,farrelldebra@example.net
+C00395,2020-06-15,Rwanda,Silver,laurie61@example.com
+C00354,04/05/2021,Uganda,Bronze,ericphillips@example.org
+C00062,2021-07-18,Senegal,silver,brian97@example.net
+C00319,04/01/2023,Tanzania,BRONZE,stevenschristian@example.com
+C00089,02/05/2022,Rwanda,PLATINUM,kristinrodriguez@example.org
+C00152,22/10/2018,Ethiopia,Bronze,ryangross@example.net
+C00230,2020-06-01,Uganda,Silver,younggabrielle@example.com
+C00336,02/06/2022,Ghana,bronze,newmantiffany@example.org
+C00404,2022-06-15,Kenya,platinum,michael90@example.net
+C00015,2018-06-23,Uganda,Bronze,mitchellclark@example.com
+C00329,2023-08-14,Egypt,silver,thompsonkendra@example.com
+C00158,2021-05-14,Rwanda,bronze,tonykelly@example.com
+C00133,25/05/2021,Kenya,gold,millerroy@example.com
+C00387,2019-10-15,South Africa,platinum,zwelch@example.org
+C00308,2020-08-02,Egypt,platinum,moorekaren@example.org
+C00482,19/07/2020,Senegal,silver,brentstein@example.org
+C00166,03/09/2018,South Africa,bronze,qnelson@example.org
+C00426,2019-01-27,Rwanda,Gold,stacey84@example.org
+C00003,2023-01-14,Egypt,platinum,garzaanthony@example.org
+C00173,2020-12-17,Kenya,silver,andrewstaylor@example.com
+C00083,2022-06-05,Rwanda,platinum,russellwilliams@example.com
+C00039,23/09/2021,Ethiopia,bronze,josephbrennan@example.com
+C00042,2019-11-23,Rwanda,Bronze,samuel87@example.org
+C00076,28/07/2018,Uganda,bronze,juan35@example.org
+C00053,2019-02-02,Senegal,gold,
+C00185,30/01/2023,Rwanda,bronze,ojones@example.com
+C00394,2018-06-12,Kenya,platinum,terri77@example.com
+C00440,2019-01-18,Ethiopia,gold,gwright@example.org
+C00038,2020-03-23,South Africa,Silver,davidalvarez@example.net
+C00366,03/08/2018,Egypt,bronze,mariahdavis@example.org
+C00311,2023-08-14,Nigeria,platinum,reeddaniel@example.net
+C00321,31/03/2018,South Africa,Silver,zroberts@example.org
+C00465,2019-10-27,Uganda,SILVER,rhernandez@example.org
+C00189,2021-12-10,Ghana,PLATINUM,scott74@example.net
+C00201,05/05/2018,Egypt,Bronze,gibsonleonard@example.com
+C00494,29/07/2023,Tanzania,bronze,ismall@example.net
+C00197,2021-06-14,Senegal,PLATINUM,fwalters@example.org
+C00013,2020-10-29,Uganda,silver,kendragalloway@example.org
+C00213,2018-03-22,Senegal,silver,mlee@example.net
+C00399,29/03/2019,Ghana,gold,wwilliams@example.net
+C00316,2021-04-10,Egypt,gold,ythompson@example.net
+C00034,14/02/2021,Kenya,platinum,georgetracy@example.org
+C00360,03/01/2023,Ghana,Silver,mmckee@example.com
+C00294,2018-02-28,South Africa,bronze,
+C00033,02/04/2021,Egypt,silver,nathanielmartin@example.net
+C00230,2020-06-01,Uganda,Silver,younggabrielle@example.com
+C00008,20/06/2022,Kenya,bronze,susanrogers@example.org
+C00184,2019-10-08,Kenya,silver,halljasmine@example.net
+C00455,2019-08-14,Senegal,PLATINUM,cporter@example.org
+C00437,29/10/2021,Ethiopia,gold,larryhiggins@example.net
+C00055,2020-01-02,Ethiopia,platinum,williamsyvette@example.org
+C00268,2021-05-25,Egypt,bronze,pollardmichael@example.net
+C00377,2022-10-15,South Africa,silver,chenbailey@example.net
+C00498,04/04/2023,Rwanda,silver,gregorychase@example.com
+C00384,2022-04-09,Egypt,PLATINUM,ingramjill@example.com
+C00018,2019-09-09,Ethiopia,platinum,gabriellecameron@example.org
+C00294,2018-02-28,South Africa,bronze,
+C00151,2018-05-13,Ghana,PLATINUM,oyu@example.com
+C00267,02/11/2020,Tanzania,bronze,jeff73@example.com
+C00370,2018-03-18,Nigeria,bronze,lacey20@example.com
+C00271,17/10/2018,Ethiopia,gold,williamsmatthew@example.org
+C00072,2019-10-13,Uganda,PLATINUM,justin78@example.net
+C00026,2019-03-20,Egypt,BRONZE,laurahenderson@example.org
+C00024,2019-08-06,Uganda,silver,jeffrey28@example.com
+C00190,07/10/2023,Senegal,platinum,gbender@example.net
+C00049,14/12/2022,Nigeria,bronze,clintonhopkins@example.com
+C00186,2021-04-27,Uganda,gold,ronaldstephens@example.net
+C00464,2022-01-29,Ethiopia,PLATINUM,silvageorge@example.net
+C00314,2018-07-26,Nigeria,platinum,kevinclark@example.org
+C00327,2022-11-05,South Africa,platinum,jessica23@example.org
+C00475,2020-02-09,Senegal,Silver,hannahburns@example.com
+C00424,2023-02-02,Tanzania,bronze,guerraapril@example.com
+C00162,03/10/2023,Ethiopia,Bronze,fbrewer@example.com
+C00421,2018-05-04,South Africa,SILVER,howens@example.com
+C00014,30/05/2021,Tanzania,silver,jamesshawn@example.com
+C00495,2019-11-05,Nigeria,bronze,znelson@example.org
+C00218,2021-08-24,Tanzania,SILVER,jreed@example.net
+C00393,15/02/2019,Nigeria,bronze,samuel67@example.com
+C00378,2021-02-19,Kenya,gold,kellysmith@example.com
+C00299,2020-05-03,Rwanda,gold,megan51@example.com
+C00481,14/12/2021,Egypt,BRONZE,derrick99@example.org
+C00056,2021-08-13,Nigeria,gold,housemelinda@example.org
+C00368,06/08/2019,Kenya,Silver,sandersnathaniel@example.com
+C00006,2020-02-16,Uganda,bronze,shaneramirez@example.org
+C00461,2022-05-10,Rwanda,bronze,richardsonemily@example.com
+C00111,2020-01-21,Ethiopia,gold,jennifercruz@example.com
+C00347,2020-03-10,Egypt,gold,mathewaguilar@example.org
+C00372,21/04/2018,Ethiopia,platinum,awest@example.org
+C00103,2019-07-12,Tanzania,Gold,richard04@example.com
+C00067,2019-12-04,Rwanda,gold,sarah35@example.org
+C00092,2018-08-22,Tanzania,bronze,raymondramirez@example.org
+C00241,2022-11-08,South Africa,silver,james67@example.org
+C00245,29/09/2019,Rwanda,Bronze,catherinegomez@example.net
+C00007,26/12/2020,Kenya,platinum,helenpeterson@example.org
+C00156,2022-06-14,Rwanda,Gold,karenhudson@example.net
+C00048,01/03/2022,Kenya,gold,esanchez@example.com
+C00261,2020-07-16,Ghana,PLATINUM,cwilson@example.org
+C00167,2020-06-17,Egypt,gold,griffithleslie@example.net
+C00330,12/11/2020,South Africa,Gold,wwebster@example.net
+C00373,2018-09-24,Uganda,platinum,scottmary@example.net
+C00488,2018-09-10,Ghana,silver,velezchristopher@example.net
+C00021,2023-08-17,Nigeria,SILVER,pfoster@example.com
+C00037,06/11/2023,South Africa,silver,wcabrera@example.net
+C00179,2022-12-14,Ghana,Gold,michelle64@example.net
+C00478,2023-07-29,Kenya,bronze,kellyroberts@example.net
+C00256,2022-06-28,South Africa,bronze,gibsonemily@example.net
+C00422,16/02/2018,Rwanda,silver,nataliedeleon@example.net
+C00135,2021-02-02,Uganda,silver,wmurphy@example.com
+C00215,2020-02-27,Nigeria,BRONZE,sarah84@example.org
+C00318,07/05/2020,Uganda,silver,sandersjudy@example.com
+C00153,11/10/2023,Tanzania,BRONZE,christina87@example.com
+C00285,2022-10-15,Rwanda,gold,cameronhill@example.net
+C00418,15/10/2022,Kenya,silver,jonesraymond@example.net
+C00174,2018-12-23,South Africa,Silver,jack04@example.com
+C00206,2023-01-27,Kenya,Gold,sarakim@example.net
+C00095,2018-12-09,Kenya,platinum,benjamin96@example.com
+C00315,03/03/2020,Senegal,silver,keith10@example.com
+C00429,2018-08-18,Ghana,PLATINUM,brittanycarpenter@example.org
+C00094,2022-08-29,Senegal,bronze,
